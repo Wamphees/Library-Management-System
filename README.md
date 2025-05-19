@@ -17,7 +17,15 @@ Le tout via une interface graphique ergonomique, développée avec Swing / JavaF
 
 ## 🖼️ Aperçu de l'application
 
-> *(Ajoute ici des captures d’écran de ton interface dans un dossier `assets/`)*
+<img src="./assets/AddUsers.jpg" width="500px"/>
+<img src="./assets/Booklist.jpg" width="500px"/>
+<img src="./assets/BorrowBook.jpg" width="500px"/>
+<img src="./assets/EtatEmprunt.jpg" width="500px"/>
+<img src="./assets/SignIn.jpg" width="500px"/>
+<img src="./assets/SignUp.jpg" width="500px"/>
+<img src="./assets/User.jpg" width="500px"/>
+<img src="./assets/addbook.jpg" width="500px"/>
+<img src="./assets/menu.jpg" width="500px" />
 
 | Sign In 🛂 | Dashboard 📊 | Emprunt/Retour 🔁 |
 |-----------|--------------|------------------|
